@@ -14,4 +14,4 @@ clean:
 help:
 	@echo "Please run make $(BIN) or just make"
 
-.PHONY: help clean
+.PHONY: help clean default
